@@ -1,6 +1,6 @@
 # ectools-docker
 
-Docker image containing a full install of [ectools](https://github.com/jgurtowski/ectools), including MUMmer.
+Docker image containing a full install of [ectools](https://github.com/jgurtowski/ectools), including [MUMmer](https://github.com/mummer4/mummer).
 
 Details about the setup:
  - Ubuntu 18.04
